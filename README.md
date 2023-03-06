@@ -1,3 +1,5 @@
+# Regresión lineal multvariada
+
 La regresión lineal múltiple permite generar un modelo lineal en el que el valor de la variable dependiente o respuesta (Y
 ) se determina a partir de un conjunto de variables independientes llamadas predictores (X1
 , X2
